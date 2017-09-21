@@ -12,6 +12,9 @@ Release Date: September 21, 2017
 *** LH ****
 Updated ChangeLog to be group's personal format - 09.21.17
 
+*** SK ****
+Updated Static to Trivial Website Conversion - 09.21.17
+
 
 
 
