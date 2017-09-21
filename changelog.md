@@ -15,6 +15,35 @@ Updated ChangeLog to be group's personal format - 09.21.17
 *** SK ****
 Updated Static to Trivial Website Conversion - 09.21.17
 
+*** LH ****
+Updated ChangeLog to be group's personal format - 09.21.17
+Updated to Basic CI Website Conversion - 09.21.17
+
+
+
+Release Date: MM DD, YY
+
+## New Components
+
+-   xx
+
+    -   xx (AB)
+    
+## Updated Components
+
+-   controllers
+
+    -   xx (CD)
+    -   xx (CD)
+
+-   models
+
+    -   xx (AB)
+
+-   views
+
+    -   xx (AB)
+    -   xx
 
 
 
